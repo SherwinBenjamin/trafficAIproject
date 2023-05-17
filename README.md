@@ -28,4 +28,4 @@ Check the sample video named - vidd1.mp4
 ### 4) Complete information and specifications are written in the pdf named Documentation.
 
 ### 5) Contibutors-
-Aryan Garg & Kartik Aggarwal
+Shreya Khera & Aditi Goel
